@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevKleberMendes
 - 👀 I’m interested in Designer Ux and Dev Front End.
-- 🌱 I’m currently learning Python, Htms, Css, Flutter, Photoshop, Illustrator, Figma, Elementor/ WordPress and After effects.
+- 🌱 I’m currently learning Python, Html, Css, Flutter, Photoshop, Illustrator, Figma, Elementor/ WordPress and After effects.
 - 📫 How to reach me @sr.kmp
 
 <!---
