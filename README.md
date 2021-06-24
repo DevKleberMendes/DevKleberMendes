@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevKleberMendes
-- 👀 I’m interested in Dev Front End.
-- 🌱 I’m currently learning Python, Html, Css, Figma and Elementor/ WordPress.
+- 👀 I’m interested in Dev Full Stack
+- 🌱 I’m currently learning Python, Elementor/ WordPress, UX, Html and Css.
 - 📫 How to reach me @sr.kmp
 
 <!---
