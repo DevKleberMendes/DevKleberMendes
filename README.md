@@ -1,5 +1,5 @@
 ### Hi, I’m @DevKleberMendes (Olá, sou o Dev. Kleber Mendes!) 🖐️
-I’m interested in Dev Full Stack (Eu tenho interesse em desenvolvimento Full Stack)
+I’m interested in Dev Full Stack (Tenho interesse em desenvolvimento Full Stack)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-mendes-81395a97/)
