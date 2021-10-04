@@ -1,5 +1,7 @@
 ### Hi, I’m @DevKleberMendes (Olá, sou o Dev. Kleber Mendes!) 🖐️
-I’m interested in Dev Full Stack (Tenho interesse em desenvolvimento Full Stack). Estou aprimorando conhecimento sobre: Python (análise de dados), React Native (expo) e Dados Cloud ( AWS, Azure e GCP). Curioso em React , NodeJs, JavaScript, CSS, Html, UX, Figma, Kotlin, WordPress e GitHub.
+Python, Ciência de Dados, Engenharia de Dados e Cloud (Python, Data Science, Data Engineering and Cloud).
+Estou aprimorando conhecimentos sobre: Python (análise de dados), Ciência de Dados, Engenharia de Dados e Cloud ( AWS, Azure e GCP).
+Curioso em React Native (expo), React , NodeJs, JavaScript, CSS, Html, UX, Figma, Kotlin, WordPress e GitHub.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-mendes-81395a97/)
