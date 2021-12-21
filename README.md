@@ -1,6 +1,5 @@
 ### Hi, I’m @DevKleberMendes (Olá, sou o Dev. Kleber Mendes!) 🖐️
-Estou aprimorando conhecimentos sobre: Engenharia de Dados e Cloud ( AWS, Azure e GCP), Python (análise de dados) e Ciência de Dados.
-Curioso em React.js , NodeJs, JavaScript, UX e Figma.
+Fala sobre:  #data, #cloud, #python, #business, #analytics, #tecnologia e #datascience. Curioso em React.js , #NodeJs, #JavaScript, #UX e #Figma.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-mendes-81395a97/)
