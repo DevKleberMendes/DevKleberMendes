@@ -1,5 +1,5 @@
 ### Hi, I’m @DevKleberMendes (Olá, sou o Dev. Kleber Mendes!) 🖐️
-Fala sobre:  #data, #cloud, #python, #business, #analytics, #tecnologia e #datascience. Curioso em: #react.js , #nodeJs, #javascript, #ux e #figma.
+Fala sobre: #react.js, #javascript, #ux, #figma, #frontend,  #nodejs, #python, #business, #analytics e #tecnologia.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-mendes-81395a97/)
