@@ -1,5 +1,5 @@
 ### Hi, I’m @DevKleberMendes (Olá, sou o Dev. Kleber Mendes!) 🖐️
-Fala sobre: #cloud, #dataengineer, #datascience, #python, #business, #analytics, #powerbi
+Fala sobre: # Golang, #cloud, #dataengineer, #datascience, #python, #business, #analytics, #powerbi
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-mendes-81395a97/)
