@@ -1,5 +1,5 @@
 ### Hi, I’m @DevKleberMendes (Olá, sou o Dev. Kleber Mendes!) 🖐️
-Fala sobre: #datascience, #python, #cloud, #dataengineer, #business, #analytics, #powerbi, # Golang
+Aprimorando conhecimentos sobre: Kotlin, Java, UX/ UI, Figma, WordPress e GitHub.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-mendes-81395a97/)
