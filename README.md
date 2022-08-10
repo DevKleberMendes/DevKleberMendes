@@ -1,5 +1,5 @@
 ### Hi, I’m @DevKleberMendes (Olá, sou o Dev. Kleber Mendes!) 🖐️
-Fala sobre:  #Kotlin, #Android, #AndroidStudio #WordPress, #Elementor, #Woocommerce, #UX, #UI.
+Fala sobre:  #Ciênciadedados, #GoogleAnalytics, #Sql, #Python, #Administração, #WordPress.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-mendes-81395a97/)
